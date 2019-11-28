@@ -12,8 +12,8 @@
 	maxHealth = 160
 	healable = 0
 	speed = 1
-	melee_damage_lower = 56
-	melee_damage_upper = 56
+	melee_damage_lower = 28
+	melee_damage_upper = 28
 	stat_attack = UNCONSCIOUS
 	robust_searching = 1
 	attacktext = "slaps"
@@ -63,9 +63,9 @@
 	health = 160
 	maxHealth = 160
 	speed = 4
-	melee_damage_lower = 45
-	melee_damage_upper = 45
-	extra_projectiles = 2
+	melee_damage_lower = 5
+	melee_damage_upper = 10
+	extra_projectiles = 0
 	ranged = TRUE
 	retreat_distance = 2
 	minimum_distance = 2
