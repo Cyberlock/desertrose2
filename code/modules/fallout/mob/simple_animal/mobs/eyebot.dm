@@ -45,8 +45,8 @@
 	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0)
 	unsuitable_atmos_damage = 15
 	status_flags = CANPUSH
-	vision_range = 13
-	aggro_vision_range = 13
+	vision_range = 7
+	aggro_vision_range = 7
 //	idle_vision_range = 7
 	ranged = 1
 	projectiletype = /obj/item/projectile/beam/laser/lasgun
